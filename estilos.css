@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(250, 206, 112);
+}
+
+h1{
+    color: rgb(131, 44, 29);
+    text-align: center;
+}
+
+p#carta{
+    text-align: left;
+}
+
+p#cafe{
+    text-align: center;
+}
+
+p#contacto{
+    text-align: right;
+}
+
+br{
+    clear: both;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+p.prf{
+    color: rgb(131, 44, 29);
+}
+
+pre.prf{
+    color: rgb(131, 44, 29);
+}
+h2{
+    color: brown;
+}
+p.prod{
+    color: chocolate;
+}
+table{
+    width: 600px;
+    height: 100px;
+    text-align: center;
+    
+}
+th{
+    background-color: rgb(255, 226, 163);
+}
+tbody{
+    color: brown;
+}
+
